@@ -35,7 +35,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=Exact
-  license: GPL-2.0-later
+  license: GPL-2.0-or-later
   summary: Performs unconditional exact tests and power calculations for 2x2 contingency tables.
   license_family: GPL2
   license_file:
