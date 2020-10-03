@@ -25,8 +25,10 @@ requirements:
     - {{ posix }}zip               # [win]
   host:
     - r-base
+    - r-rootsolve
   run:
     - r-base
+    - r-rootsolve
 
 test:
   commands:
@@ -35,7 +37,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=Exact
-  license: GPL-2.0-or-later
+  license: GPL-2.0-only
   summary: Performs unconditional exact tests and power calculations for 2x2 contingency tables.
   license_family: GPL2
   license_file:
