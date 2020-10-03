@@ -3,7 +3,7 @@ About r-exact
 
 Home: https://CRAN.R-project.org/package=Exact
 
-Package license: GPL-2.0-or-later
+Package license: GPL-2.0-only
 
 Feedstock license: BSD-3-Clause
 
