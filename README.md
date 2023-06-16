@@ -1,11 +1,11 @@
-About r-exact
-=============
+About r-exact-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-exact-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Exact
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-exact-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs unconditional exact tests and power calculations for 2x2 contingency tables.
 
